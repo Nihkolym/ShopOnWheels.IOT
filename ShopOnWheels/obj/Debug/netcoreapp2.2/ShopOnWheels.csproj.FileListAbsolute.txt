@@ -1,0 +1,11 @@
+C:\ShopOnWheels\ShopOnWheels.IOT\ShopOnWheels\bin\Debug\netcoreapp2.2\ShopOnWheels.deps.json
+C:\ShopOnWheels\ShopOnWheels.IOT\ShopOnWheels\bin\Debug\netcoreapp2.2\ShopOnWheels.runtimeconfig.json
+C:\ShopOnWheels\ShopOnWheels.IOT\ShopOnWheels\bin\Debug\netcoreapp2.2\ShopOnWheels.runtimeconfig.dev.json
+C:\ShopOnWheels\ShopOnWheels.IOT\ShopOnWheels\bin\Debug\netcoreapp2.2\ShopOnWheels.dll
+C:\ShopOnWheels\ShopOnWheels.IOT\ShopOnWheels\obj\Debug\netcoreapp2.2\ShopOnWheels.csprojAssemblyReference.cache
+C:\ShopOnWheels\ShopOnWheels.IOT\ShopOnWheels\obj\Debug\netcoreapp2.2\ShopOnWheels.csproj.CoreCompileInputs.cache
+C:\ShopOnWheels\ShopOnWheels.IOT\ShopOnWheels\obj\Debug\netcoreapp2.2\ShopOnWheels.AssemblyInfoInputs.cache
+C:\ShopOnWheels\ShopOnWheels.IOT\ShopOnWheels\obj\Debug\netcoreapp2.2\ShopOnWheels.AssemblyInfo.cs
+C:\ShopOnWheels\ShopOnWheels.IOT\ShopOnWheels\bin\Debug\netcoreapp2.2\ShopOnWheels.pdb
+C:\ShopOnWheels\ShopOnWheels.IOT\ShopOnWheels\obj\Debug\netcoreapp2.2\ShopOnWheels.dll
+C:\ShopOnWheels\ShopOnWheels.IOT\ShopOnWheels\obj\Debug\netcoreapp2.2\ShopOnWheels.pdb
